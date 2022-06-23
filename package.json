@@ -21,7 +21,7 @@
     "body-parser": "^1.19.0",
     "curl": "^0.1.4",
     "form-data": "^2.4.0",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "koa": "^2.7.0",
     "koa-bodyparser": "^2.5.0",
     "koa-router": "^7.4.0",
